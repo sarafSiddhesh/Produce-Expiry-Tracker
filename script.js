@@ -21,5 +21,5 @@ addItemForm.addEventListener('submit', function(event) {
   // Clear the form
   addItemForm.reset();
 
-  // You can add code here to check for expiry and display notifications (more advanced)
+ 
 });
